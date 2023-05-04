@@ -11,6 +11,7 @@ To achieve these accessibility standards, the following changes were implemented
 3. All images were given an alt text to facilitate ease of accessibility.
 4. The headings were changed to follow a sequential order.
 5. Class attributes were changed to minimize the loading time and remove redundancies where possible.
+6. Broken links were fixed.
 
 
 ## Links to the page
