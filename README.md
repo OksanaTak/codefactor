@@ -6,15 +6,16 @@ The webpage code has been re-factored to meet accessibility criteria for people 
 
 To achieve these accessibility standards, the following changes were implemented
 
-A descriptive title was given to the page.
-HTML elements were migrated to semantic HTML elements.
-All images were given an alt text to facilitate ease of accessibility.
-The headings were changed to follow a sequential order.
-Class attributes were changed to minimize the loading time and remove redundancies where possible.
+1. A descriptive title was given to the page.
+2. HTML elements were migrated to semantic HTML elements.
+3. All images were given an alt text to facilitate ease of accessibility.
+4. The headings were changed to follow a sequential order.
+5. Class attributes were changed to minimize the loading time and remove redundancies where possible.
 
 
 ## Links to the page
 
+[Page Link](https://oksanatak.github.io/codefactor/)
 
 ## Mock-Up
 
