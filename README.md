@@ -1,4 +1,4 @@
-# <Code Refactor for Horiseon Webpage>
+# Code Refactor for Horiseon Webpage
 
 ## Description
 
@@ -19,16 +19,12 @@ Class attributes were changed to minimize the loading time and remove redundanci
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-```md
-![The Horiseon webpage includes a navigation bar and a header image.](./assets/images/01-Codefactor_shot1.png)
-```
-```md
-![The cards in the page middle](./assets/images/01-Codefactor_shot2.png)
-```md
 
-```md
+![The Horiseon webpage includes a navigation bar and a header image.](./assets/images/01-Codefactor_shot1.png)
+
+![The cards in the page middle](./assets/images/01-Codefactor_shot2.png)
+
 ![The cards in the page bottom](./assets/images/01-Codefactor_shot3.png)
-```md
 
 
 
