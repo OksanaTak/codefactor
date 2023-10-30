@@ -17,6 +17,7 @@ To achieve these accessibility standards, the following changes were implemented
 ## Links to the page
 
 [Page Link](https://oksanatak.github.io/codefactor/)
+[GITHUB](https://github.com/OksanaTak/codefactor) 
 
 ## Mock-Up
 
